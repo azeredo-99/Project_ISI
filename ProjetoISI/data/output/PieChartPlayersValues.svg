@@ -1,0 +1,548 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="600"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     style="display: block;" class="nvd3-svg" contentStyleType="text/css"
+     height="400" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.0">
+    <style type="text/css" xml:space="preserve">.nvd3 text { font: 400 12px Arial; }
+.nvd3 .nv-legend .nv-series { cursor: pointer; }
+.nvd3.nv-pie path { stroke-opacity: 0; transition: fill-opacity 250ms linear 0s, stroke-width 250ms linear 0s, stroke-opacity 250ms linear 0s; }
+.nvd3.nv-pie path { stroke: rgb(255, 255, 255); stroke-width: 1px; stroke-opacity: 1; }
+.nvd3.nv-pie .nv-label { pointer-events: none; }
+.nvd3.nv-pie .nv-label rect { fill-opacity: 0; stroke-opacity: 0; }</style><style type="text/css"
+           xml:space="preserve">.knime-title { color: black; fill: black; font-size: 24px; }
+.knime-label, .knime-axis-label, .knime-tick-label, .knime-label text, text.knime-axis-label, text.knime-tick-label { color: black; fill: black; font-size: 12px; }
+.knime-legend-label, text.knime-legend-label { color: black; fill: black; font-size: 12px; font-weight: normal; }</style><text x="20"
+          y="30" id="title" class="knime-title">
+        Pie Chart
+    </text>
+    <g class="nvd3 nv-wrap nv-pieChart" transform="translate(20,180)">
+        <g>
+            <g class="nv-pieWrap nvd3-svg">
+                <g class="nvd3 nv-wrap nv-pie nv-chart-7184"
+                   transform="translate(0,0)">
+                    <g>
+                        <g class="nv-pie" transform="translate(290,100)">
+                            <g class="nv-slice" fill="#1f77b4" stroke="#1f77b4">
+                                <path d="M4.898587196589413e-15,-80A80,80 0 0,1 19.145253143004627,-77.67534539408416L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#aec7e8" stroke="#aec7e8">
+                                <path d="M19.145253143004627,-77.67534539408416A80,80 0 0,1 37.17785376350149,-70.8364820522568L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#ff7f0e" stroke="#ff7f0e">
+                                <path d="M37.17785376350149,-70.8364820522568A80,80 0 0,1 53.049812659263615,-59.88085985368809L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#ffbb78" stroke="#ffbb78">
+                                <path d="M53.049812659263615,-59.88085985368809A80,80 0 0,1 65.8387092714925,-45.44517973849246L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#2ca02c" stroke="#2ca02c">
+                                <path d="M65.8387092714925,-45.44517973849246A80,80 0 0,1 74.80129941483318,-28.36839096340286L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#98df8a" stroke="#98df8a">
+                                <path d="M74.80129941483318,-28.36839096340286A80,80 0 0,1 79.41670992784432,-9.642934420425854L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#d62728" stroke="#d62728">
+                                <path d="M79.41670992784432,-9.642934420425854A80,80 0 0,1 79.41670992784432,9.642934420425837L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#ff9896" stroke="#ff9896">
+                                <path d="M79.41670992784432,9.642934420425837A80,80 0 0,1 74.80129941483318,28.36839096340284L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#9467bd" stroke="#9467bd">
+                                <path d="M74.80129941483318,28.36839096340284A80,80 0 0,1 65.83870927149252,45.445179738492456L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#c5b0d5" stroke="#c5b0d5">
+                                <path d="M65.83870927149252,45.445179738492456A80,80 0 0,1 53.04981265926364,59.880859853688065L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#8c564b" stroke="#8c564b">
+                                <path d="M53.04981265926364,59.880859853688065A80,80 0 0,1 37.17785376350152,70.83648205225677L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#c49c94" stroke="#c49c94">
+                                <path d="M37.17785376350152,70.83648205225677A80,80 0 0,1 19.14525314300468,77.67534539408415L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#e377c2" stroke="#e377c2">
+                                <path d="M19.14525314300468,77.67534539408415A80,80 0 0,1 7.595286077259942e-14,80L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#f7b6d2" stroke="#f7b6d2">
+                                <path d="M7.595286077259942e-14,80A80,80 0 0,1 -19.14525314300453,77.67534539408419L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#7f7f7f" stroke="#7f7f7f">
+                                <path d="M-19.14525314300453,77.67534539408419A80,80 0 0,1 -37.17785376350139,70.83648205225684L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#c7c7c7" stroke="#c7c7c7">
+                                <path d="M-37.17785376350139,70.83648205225684A80,80 0 0,1 -53.049812659263516,59.88085985368818L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#bcbd22" stroke="#bcbd22">
+                                <path d="M-53.049812659263516,59.88085985368818A80,80 0 0,1 -65.83870927149243,45.445179738492584L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#dbdb8d" stroke="#dbdb8d">
+                                <path d="M-65.83870927149243,45.445179738492584A80,80 0 0,1 -74.80129941483312,28.368390963403L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#17becf" stroke="#17becf">
+                                <path d="M-74.80129941483312,28.368390963403A80,80 0 0,1 -79.4167099278443,9.642934420426021L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#9edae5" stroke="#9edae5">
+                                <path d="M-79.4167099278443,9.642934420426021A80,80 0 0,1 -79.41670992784435,-9.64293442042565L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#1f77b4" stroke="#1f77b4">
+                                <path d="M-79.41670992784435,-9.64293442042565A80,80 0 0,1 -74.80129941483325,-28.36839096340265L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#aec7e8" stroke="#aec7e8">
+                                <path d="M-74.80129941483325,-28.36839096340265A80,80 0 0,1 -65.83870927149265,-45.44517973849228L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#ff7f0e" stroke="#ff7f0e">
+                                <path d="M-65.83870927149265,-45.44517973849228A80,80 0 0,1 -53.0498126592638,-59.88085985368792L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#ffbb78" stroke="#ffbb78">
+                                <path d="M-53.0498126592638,-59.88085985368792A80,80 0 0,1 -37.177853763501716,-70.83648205225667L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#2ca02c" stroke="#2ca02c">
+                                <path d="M-37.177853763501716,-70.83648205225667A80,80 0 0,1 -19.145253143004894,-77.6753453940841L0,0Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#98df8a" stroke="#98df8a">
+                                <path d="M-19.145253143004894,-77.6753453940841A80,80 0 0,1 -2.989128558938083e-13,-80L0,0Z"/>
+                            </g>
+                        </g>
+                        <g class="nv-pieLabels" transform="translate(290,100)">
+                            <g class="nv-label knime-label"
+                               transform="translate(4.82146721021292,-39.70835496392216)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(14.184195518493652,-51.40065002441406)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(22.72258949279785,-46.91935348510742)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(29.940429926844043,-26.524906329631808)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(35.41823959350586,-32.58892822265625)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(38.83767269704208,-9.572626571502319)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(40,0)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(38.83767318725586,-4.42737340927124)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(35.4182410261284,18.588926881750744)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(29.9404296875,12.524906158447266)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(22.722589869246246,32.919354635746245)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(14.184195518493652,23.400650024414062)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(4.821467399597168,25.708354949951172)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-4.82146721021288,39.70835496392216)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-14.184195518493652,23.400650024414062)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-22.72258949279785,18.919355392456055)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-29.9404296875,12.524906158447266)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-35.41823959350586,4.588926792144775)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-38.83767318725586,-4.42737340927124)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-40,-14)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-38.83767318725586,-23.5726261138916)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-35.41823959350586,-32.58892822265625)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-29.9404296875,-40.524906158447266)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-22.72258949279785,-46.91935348510742)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-14.184195518493652,-51.40065002441406)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-4.821467399597168,-53.70835494995117)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g class="nv-legendWrap nvd3-svg knime-legend"
+               transform="translate(0,-180)">
+                <g class="nvd3 nv-legend" transform="translate(0,20)">
+                    <g transform="translate(47.234375,20)">
+                        <g class="nv-series" transform="translate(0,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(31, 119, 180); fill-opacity: 1; stroke: rgb(31, 119, 180);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Antoine Griezmann
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(134.734375,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(174, 199, 232); fill-opacity: 1; stroke: rgb(174, 199, 232);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Bukayo Saka
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(256.296875,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(255, 127, 14); fill-opacity: 1; stroke: rgb(255, 127, 14);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Cristiano Ronaldo
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(412.03125,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(255, 187, 120); fill-opacity: 1; stroke: rgb(255, 187, 120);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Declan Rice
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(0,25)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(44, 160, 44); fill-opacity: 1; stroke: rgb(44, 160, 44);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Eden Hazard
+                            </text>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(134.734375,25)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(152, 223, 138); fill-opacity: 1; stroke: rgb(152, 223, 138);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Erling Haaland
+                            </text>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(256.296875,25)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(214, 39, 40); fill-opacity: 1; stroke: rgb(214, 39, 40);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Federico Valverde
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(412.03125,25)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(255, 152, 150); fill-opacity: 1; stroke: rgb(255, 152, 150);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Florian Wirtz
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(0,45)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(148, 103, 189); fill-opacity: 1; stroke: rgb(148, 103, 189);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Harry Kane
+                            </text>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(134.734375,45)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(197, 176, 213); fill-opacity: 1; stroke: rgb(197, 176, 213);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Jadon Sancho
+                            </text>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(256.296875,45)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(140, 86, 75); fill-opacity: 1; stroke: rgb(140, 86, 75);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Jamal Musiala
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(412.03125,45)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(196, 156, 148); fill-opacity: 1; stroke: rgb(196, 156, 148);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Jude Bellingham
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(0,65)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(227, 119, 194); fill-opacity: 1; stroke: rgb(227, 119, 194);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Kevin De Bruyne
+                            </text>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(134.734375,65)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(247, 182, 210); fill-opacity: 1; stroke: rgb(247, 182, 210);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Kylian MbappÃ©
+                            </text>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(256.296875,65)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(127, 127, 127); fill-opacity: 1; stroke: rgb(127, 127, 127);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Lamine Yamal
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(412.03125,65)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(199, 199, 199); fill-opacity: 1; stroke: rgb(199, 199, 199);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Lionel Messi
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(0,85)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(188, 189, 34); fill-opacity: 1; stroke: rgb(188, 189, 34);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Mohamed Salah
+                            </text>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(134.734375,85)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(219, 219, 141); fill-opacity: 1; stroke: rgb(219, 219, 141);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Neymar
+                            </text>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(256.296875,85)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(23, 190, 207); fill-opacity: 1; stroke: rgb(23, 190, 207);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Ousmane DembÃ©lÃ©
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(412.03125,85)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(158, 218, 229); fill-opacity: 1; stroke: rgb(158, 218, 229);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Phil Foden
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(0,105)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(31, 119, 180); fill-opacity: 1; stroke: rgb(31, 119, 180);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Philippe Coutinho
+                            </text>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(134.734375,105)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(174, 199, 232); fill-opacity: 1; stroke: rgb(174, 199, 232);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Raheem Sterling
+                            </text>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(256.296875,105)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(255, 127, 14); fill-opacity: 1; stroke: rgb(255, 127, 14);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Rodri
+                            </text>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(412.03125,105)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(255, 187, 120); fill-opacity: 1; stroke: rgb(255, 187, 120);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Sadio ManÃ©
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(0,125)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(44, 160, 44); fill-opacity: 1; stroke: rgb(44, 160, 44);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Victor Osimhen
+                            </text>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(134.734375,125)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(152, 223, 138); fill-opacity: 1; stroke: rgb(152, 223, 138);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Vinicius Junior
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

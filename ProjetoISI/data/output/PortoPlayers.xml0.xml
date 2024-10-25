@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <item>
+        <player_id>3979</player_id>
+        <name>Iker Casillas</name>
+        <date_of_birth>1981-05-20 00:00:00</date_of_birth>
+        <position>Goalkeeper</position>
+        <height_in_cm>182</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>35000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>13952</player_id>
+        <name>Liedson</name>
+        <date_of_birth>1977-12-17 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>175</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>15000000</highest_market_value_in_eur>
+        <Estatura>Estatura Baixa</Estatura>
+    </item>
+    <item>
+        <player_id>14098</player_id>
+        <name>Helton</name>
+        <date_of_birth>1978-05-18 00:00:00</date_of_birth>
+        <position>Goalkeeper</position>
+        <height_in_cm>189</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>8000000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+    <item>
+        <player_id>14132</player_id>
+        <name>Pepe</name>
+        <date_of_birth>1983-02-26 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>187</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>30000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>26244</player_id>
+        <name>Lucho GonzÃ¡lez</name>
+        <date_of_birth>1981-01-19 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>186</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>21000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>37389</player_id>
+        <name>Daniel Osvaldo</name>
+        <date_of_birth>1986-01-12 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>182</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>18000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>44057</player_id>
+        <name>Jorge Fucile</name>
+        <date_of_birth>1984-11-19 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>178</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>6700000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>52848</player_id>
+        <name>Fabiano</name>
+        <date_of_birth>1988-02-29 00:00:00</date_of_birth>
+        <position>Goalkeeper</position>
+        <height_in_cm>197</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>6500000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+    <item>
+        <player_id>53359</player_id>
+        <name>Evandro</name>
+        <date_of_birth>1986-08-23 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>179</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>4000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>57723</player_id>
+        <name>IvÃ¡n Marcano</name>
+        <date_of_birth>1987-06-23 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>189</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>8000000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+    <item>
+        <player_id>57834</player_id>
+        <name>Maximiliano Pereira</name>
+        <date_of_birth>1984-06-08 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>173</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>15000000</highest_market_value_in_eur>
+        <Estatura>Estatura Baixa</Estatura>
+    </item>
+    <item>
+        <player_id>60517</player_id>
+        <name>Yacine Brahimi</name>
+        <date_of_birth>1990-02-08 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>175</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>26000000</highest_market_value_in_eur>
+        <Estatura>Estatura Baixa</Estatura>
+    </item>
+    <item>
+        <player_id>134400</player_id>
+        <name>KadÃº</name>
+        <date_of_birth>1994-11-30 00:00:00</date_of_birth>
+        <position>Goalkeeper</position>
+        <height_in_cm>190</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>1000000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+    <item>
+        <player_id>155025</player_id>
+        <name>FÃ¡bio Cardoso</name>
+        <date_of_birth>1994-04-19 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>187</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>4000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>155396</player_id>
+        <name>ClÃ¡udio Ramos</name>
+        <date_of_birth>1991-11-16 00:00:00</date_of_birth>
+        <position>Goalkeeper</position>
+        <height_in_cm>183</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>2000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>165383</player_id>
+        <name>Kelvin</name>
+        <date_of_birth>1993-06-01 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>174</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>5000000</highest_market_value_in_eur>
+        <Estatura>Estatura Baixa</Estatura>
+    </item>
+    <item>
+        <player_id>184604</player_id>
+        <name>Dellatorre</name>
+        <date_of_birth>1992-05-01 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>181</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>1500000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>209513</player_id>
+        <name>Igor Lichnovsky</name>
+        <date_of_birth>1994-03-07 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>188</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>3500000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+    <item>
+        <player_id>214538</player_id>
+        <name>Mateus Uribe</name>
+        <date_of_birth>1991-03-21 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>182</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>16000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>222813</player_id>
+        <name>Marko GrujiÄ‡</name>
+        <date_of_birth>1996-04-13 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>191</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>20000000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+    <item>
+        <player_id>225095</player_id>
+        <name>Rui Moreira</name>
+        <date_of_birth>1996-05-31 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>172</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>1250000</highest_market_value_in_eur>
+        <Estatura>Estatura Baixa</Estatura>
+    </item>
+    <item>
+        <player_id>225162</player_id>
+        <name>Diogo Verdasca</name>
+        <date_of_birth>1996-10-26 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>185</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>700000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>228433</player_id>
+        <name>Wendell</name>
+        <date_of_birth>1993-07-20 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>176</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>25000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>231289</player_id>
+        <name>OtÃ¡vio</name>
+        <date_of_birth>1995-02-09 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>172</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>35000000</highest_market_value_in_eur>
+        <Estatura>Estatura Baixa</Estatura>
+    </item>
+    <item>
+        <player_id>243298</player_id>
+        <name>Ismael DÃ­az</name>
+        <date_of_birth>1997-05-12 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>182</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>1200000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>258002</player_id>
+        <name>LuÃ­s Mata</name>
+        <date_of_birth>1997-07-06 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>181</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>1500000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>268642</player_id>
+        <name>Renzo Saravia</name>
+        <date_of_birth>1993-06-16 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>178</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>5000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>283130</player_id>
+        <name>Moussa Marega</name>
+        <date_of_birth>1991-04-14 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>183</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>30000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>284701</player_id>
+        <name>Samuel Portugal</name>
+        <date_of_birth>1994-03-29 00:00:00</date_of_birth>
+        <position>Goalkeeper</position>
+        <height_in_cm>188</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>1500000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+    <item>
+        <player_id>284883</player_id>
+        <name>Fran Navarro</name>
+        <date_of_birth>1998-02-03 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>179</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>13000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>342024</player_id>
+        <name>JoÃ£o Pedro</name>
+        <date_of_birth>1996-11-15 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>179</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>3000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>357153</player_id>
+        <name>Diogo Costa</name>
+        <date_of_birth>1999-09-19 00:00:00</date_of_birth>
+        <position>Goalkeeper</position>
+        <height_in_cm>186</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>45000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>375383</player_id>
+        <name>RomÃ¡rio BarÃ³</name>
+        <date_of_birth>2000-01-25 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>179</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>9000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>392767</player_id>
+        <name>Danny Namaso</name>
+        <date_of_birth>2000-08-28 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>182</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>5000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>406151</player_id>
+        <name>ZÃ© Pedro</name>
+        <date_of_birth>1997-06-06 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>187</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>3000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>410226</player_id>
+        <name>Momo Mbaye</name>
+        <date_of_birth>1997-10-13 00:00:00</date_of_birth>
+        <position>Goalkeeper</position>
+        <height_in_cm>193</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>400000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+    <item>
+        <player_id>416088</player_id>
+        <name>Romain Correia</name>
+        <date_of_birth>1999-09-06 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>187</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>1000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>420465</player_id>
+        <name>Tiago DjalÃ³</name>
+        <date_of_birth>2000-04-09 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>190</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>16000000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+    <item>
+        <player_id>426213</player_id>
+        <name>Rodrigo ConceiÃ§Ã£o</name>
+        <date_of_birth>2000-01-02 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>175</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>1500000</highest_market_value_in_eur>
+        <Estatura>Estatura Baixa</Estatura>
+    </item>
+    <item>
+        <player_id>448470</player_id>
+        <name>AndrÃ© Franco</name>
+        <date_of_birth>1998-04-12 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>177</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>4000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>454121</player_id>
+        <name>Galeno</name>
+        <date_of_birth>1997-10-22 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>179</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>27000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>466805</player_id>
+        <name>Nico GonzÃ¡lez</name>
+        <date_of_birth>2002-01-03 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>188</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>25000000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+    <item>
+        <player_id>478365</player_id>
+        <name>Francisco Moura</name>
+        <date_of_birth>1999-08-16 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>181</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>7000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>479649</player_id>
+        <name>GonÃ§alo Borges</name>
+        <date_of_birth>2001-03-29 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>184</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>5000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>491693</player_id>
+        <name>NehuÃ©n PÃ©rez</name>
+        <date_of_birth>2000-06-24 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>186</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>13000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>504085</player_id>
+        <name>TomÃ¡s Esteves</name>
+        <date_of_birth>2002-04-03 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>180</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>8000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>512913</player_id>
+        <name>Stephen Eustaquio</name>
+        <date_of_birth>1996-12-21 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>177</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>15000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>520662</player_id>
+        <name>PepÃª</name>
+        <date_of_birth>1997-02-24 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>175</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>30000000</highest_market_value_in_eur>
+        <Estatura>Estatura Baixa</Estatura>
+    </item>
+    <item>
+        <player_id>537598</player_id>
+        <name>FÃ¡bio Vieira</name>
+        <date_of_birth>2000-05-30 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>170</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>30000000</highest_market_value_in_eur>
+        <Estatura>Estatura Baixa</Estatura>
+    </item>
+    <item>
+        <player_id>537602</player_id>
+        <name>JoÃ£o MÃ¡rio</name>
+        <date_of_birth>2000-01-03 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>178</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>16000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>544784</player_id>
+        <name>Zaidu</name>
+        <date_of_birth>1997-06-13 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>182</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>10000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>575716</player_id>
+        <name>Vasco Sousa</name>
+        <date_of_birth>2003-04-03 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>169</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>5000000</highest_market_value_in_eur>
+        <Estatura>Estatura Baixa</Estatura>
+    </item>
+    <item>
+        <player_id>589911</player_id>
+        <name>Wendel Silva</name>
+        <date_of_birth>2000-08-02 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>180</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>1200000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>610335</player_id>
+        <name>IvÃ¡n Jaime</name>
+        <date_of_birth>2000-09-26 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>180</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>10000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>627221</player_id>
+        <name>Gabriel Veron</name>
+        <date_of_birth>2002-09-03 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>176</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>25000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>670715</player_id>
+        <name>Gabi BrÃ¡s</name>
+        <date_of_birth>2004-03-25 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>186</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>1000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>699632</player_id>
+        <name>Abraham Marcus</name>
+        <date_of_birth>2000-01-02 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>178</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>2000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>723733</player_id>
+        <name>Bernardo Folha</name>
+        <date_of_birth>2002-03-23 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>180</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>1000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>744024</player_id>
+        <name>JoÃ£o Marcelo</name>
+        <date_of_birth>2000-06-13 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>189</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>800000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+    <item>
+        <player_id>756990</player_id>
+        <name>Alan Varela</name>
+        <date_of_birth>2001-07-04 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>177</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>35000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>818495</player_id>
+        <name>OtÃ¡vio</name>
+        <date_of_birth>2002-04-21 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>188</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>13000000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+    <item>
+        <player_id>929334</player_id>
+        <name>GonÃ§alo Ribeiro</name>
+        <date_of_birth>2006-01-15 00:00:00</date_of_birth>
+        <position>Goalkeeper</position>
+        <height_in_cm>190</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>1500000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+    <item>
+        <player_id>935480</player_id>
+        <name>Martim Fernandes</name>
+        <date_of_birth>2006-01-18 00:00:00</date_of_birth>
+        <position>Defender</position>
+        <height_in_cm>181</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>6000000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>957653</player_id>
+        <name>Rodrigo Mora</name>
+        <date_of_birth>2007-05-05 00:00:00</date_of_birth>
+        <position>Midfield</position>
+        <height_in_cm>168</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>10000000</highest_market_value_in_eur>
+        <Estatura>Estatura Baixa</Estatura>
+    </item>
+    <item>
+        <player_id>991268</player_id>
+        <name>Samu Omorodion</name>
+        <date_of_birth>2004-05-05 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>193</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>40000000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+    <item>
+        <player_id>1050215</player_id>
+        <name>GonÃ§alo Sousa</name>
+        <date_of_birth>2006-06-30 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>186</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>1700000</highest_market_value_in_eur>
+        <Estatura>Estatura Média</Estatura>
+    </item>
+    <item>
+        <player_id>1063292</player_id>
+        <name>Deniz GÃ¼l</name>
+        <date_of_birth>2004-07-02 00:00:00</date_of_birth>
+        <position>Attack</position>
+        <height_in_cm>190</height_in_cm>
+        <current_club_name>Futebol Clube do Porto</current_club_name>
+        <highest_market_value_in_eur>4500000</highest_market_value_in_eur>
+        <Estatura>Estatura Alta</Estatura>
+    </item>
+</root>
